@@ -25,14 +25,6 @@ const Footer = () => {
             <div className="footer-down">
                 <p>Developed by</p>
                 <div>
-                    <img src={LogoAngela} alt="Logo Angela" />
-                    <img src={LogoAndres} alt="logo Andres" />
-                    <img src={LogoBrayan} alt="logo Brayan" />
-                    <img src={LogoCamila} alt="logo Camila" />
-                    <img src={LogoJesus} alt="logo Jesus" />
-                    <img src={LogoAlejandro} alt="logo Alejandro" />
-                    <img src={LogoNicolas} alt="logo Nicolas" />
-                    <img src={LogoDruck} alt="logo Druck" />
                 </div>
             </div>
         </div>
